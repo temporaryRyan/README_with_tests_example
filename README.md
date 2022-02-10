@@ -37,8 +37,8 @@ vowelWord(word);
 word = 1;
 vowelWord(word);
 - Expected Output: null
-
-
+---
+---
 #### Describe: consonantWord()
 
 - Test: "It will return a word starting with a consonant as a word with the consonant moved to the end plus "ay"."
@@ -64,6 +64,7 @@ consonantWord(word);
 word = 1;
 consonantWord(word);
 - Expected Output: null
+---
 ---
 #### Describe: quWord()
 
@@ -102,6 +103,7 @@ quWord(word);
 word = 1;
 quWord(word);
 - Expected Output: null
+---
 ---
 
 ## License
