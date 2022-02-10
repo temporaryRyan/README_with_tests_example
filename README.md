@@ -20,13 +20,13 @@
 
 #### Describe: vowelWord()
 
-Test: "It will return a word with "way" at the end."
+- Test: "It will return a word with "way" at the end."
 
-Code: 
+- Code: 
 word = "apple";
 vowelWord(word);
 
-Expected Output: "appleway"
+- Expected Output: "appleway"
 
 
 Test: "It will return null if given a word that does not start with a vowel."
